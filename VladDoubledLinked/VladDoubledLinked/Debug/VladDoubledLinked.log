@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Maks\source\repos\VladDoubledLinked\VladDoubledLinked\Main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Maks\source\repos\VladDoubledLinked\VladDoubledLinked\Main.cpp(9,16): warning C4101: 'size': unreferenced local variable
+  VladDoubledLinked.vcxproj -> C:\Users\Maks\source\repos\VladDoubledLinked\Debug\VladDoubledLinked.exe

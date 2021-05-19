@@ -1,0 +1,6 @@
+﻿  Functions.cpp
+  main.cpp
+C:\Users\Maks\source\repos\VladSingleLinked\VladSingleLinked\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Maks\source\repos\VladSingleLinked\VladSingleLinked\main.cpp(10,16): warning C4101: 'size': unreferenced local variable
+  Generating Code...
+  VladSingleLinked.vcxproj -> C:\Users\Maks\source\repos\VladSingleLinked\Debug\VladSingleLinked.exe
