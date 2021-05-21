@@ -1,0 +1,6 @@
+﻿  Function.cpp
+  Лаб 9_(2) ++.cpp
+C:\Users\Виталий\source\repos\Лаб 9_(2) ++\Лаб 9_(2) ++.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Виталий\source\repos\Лаб 9_(2) ++\Лаб 9_(2) ++.cpp(9,16): warning C4101: size: неиспользованная локальная переменная
+  Создание кода...
+  Лаб 9_(2) ++.vcxproj -> C:\Users\Виталий\source\repos\Лаб 9_(2) ++\Debug\Лаб 9_(2) ++.exe
