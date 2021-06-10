@@ -1,8 +1,9 @@
 ﻿#pragma once
 #include <iostream>
+
 using namespace std;
 
-//#define DEBUG
+#define DEBUG
 
 class SUM
 {
@@ -16,6 +17,8 @@ public:
     {
         x = valueX;
         y = valueY;
+
+        s = 0;
     }
 
     void SetX(int valueX)
