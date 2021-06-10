@@ -1,0 +1,4 @@
+C:\Users\Виталий\source\repos\VladKursovaya\Debug\VladKursovaya.vcxprojAssemblyReference.cache
+C:\Users\Виталий\source\repos\VladKursovaya\Debug\VladKursovaya.Calculator.resources
+C:\Users\Виталий\source\repos\VladKursovaya\Debug\VladKursovaya.vcxproj.GenerateResource.cache
+C:\Users\Виталий\source\repos\VladKursovaya\Debug\VladKursovaya.exe
